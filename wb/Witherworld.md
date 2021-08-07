@@ -131,6 +131,7 @@ Antagonist types:
 - The [Rivers of London](https://en.wikipedia.org/wiki/Peter_Grant_(book_series)) series has a few similar themes: a handful of practitioners working to preserve order as the magic begins to return to England.
 - The orphan-thief entry point is a bit similar to how Jay (Will Smith) from [Men in Black](https://www.imdb.com/title/tt0119654/) got involved in extra-terrestrial affairs, albeit with a slightly stronger risk of being obliviated into a coma if he [refuses the call](https://tvtropes.org/pmwiki/pmwiki.php/Main/TheCallKnowsWhereYouLive).
   - "A person is smart. People are dumb, panicky dangerous animals and you know it." - best line ever
+- The breaches are reminiscent of [Primeval](https://m.imdb.com/title/tt0808096/), a TV show about Suddenly Dinosaurs.
 - I need to be careful *not* to take too much influence from Artemis Fowl.  'Tis a silly series.
 
 ## Reference material
