@@ -12,9 +12,7 @@ The purpose of world-building isn't to advance a story but to constrain it.  It 
 
 This is not a bad thing!  Per EV Wright's "Gadsby", the constraints make the story.  But it requires the writer to switch hats mid-way: when you're writing the actual story, you're essentially playing chess against the world you just built!
 
-# Sufficiently developed worlds
-
-~~Strikethrough notation test~~
+# Sufficiently developed ~~technology~~ worlds
 
 [Witherworld](/wb/Witherworld.md) - Arthurian legend meets Code Nightmare Green
 
@@ -22,6 +20,9 @@ This is not a bad thing!  Per EV Wright's "Gadsby", the constraints make the sto
 
 ## Mereverse
 
+- The name of this one is a bit of a blunder on my part: I thought the word for "shallow lake" (as in "hiding in the reflections of a") had the same etymology as "mirror", but it's completely different.  But it sounds so good...
+  - On the other hand, Grendel's Mother was called "merewif mightig", mighty water-witch, so I can pretend that's what I was talking about :)
+  
 ### Elevator pitch
 
 Did you ever see a mysterious shape out of the corner of your eye when wandering through the woods?  Or a fantastical reflection in a shimmering lake?  Perhaps a fireside story that had you glimpsing monsters in dark corners?
