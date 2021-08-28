@@ -15,3 +15,7 @@
 - "Hard superhero" setting (per Worm) where people on a modern-ish Earth start to get powers that would be withon range of technology in a couple hundred years. Turns out this is due to cross-timeline bleed, after an enemy of humanity changed the past to slow down technological progress and make them easier to beat.
 - An archaeology team uncovers a Saxon warlord. Suddenly: revenants.
   - cough*MarlowWarlord*cough
+- Noah's Ark reinterpretation whereby the "ark" was a time travel machine which the inventor was really reluctant to use because of the moral implications of destroying all humanity born after the arrival time. Eventually *something* happens (alien invasion?) and everyone is gonna die anyway, so he jumps. Focus is on ethics of TT; punchline is that the revised timeline is our own and not much has changed (or at least not enough to avert the coming apocalypse).
+  - the Flood becomes the Great Deletion of the time travel itself, filtered through Bronze Age tribal histories
+  - [similar full-length story](https://www.goodreads.com/book/show/31936622-the-coming-of-noah-s-2nd-ark) (obscure)
+  - [similar short story](https://en.m.wikipedia.org/wiki/The_Red_Queen%27s_Race) (Asimov)
