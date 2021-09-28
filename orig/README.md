@@ -36,13 +36,13 @@ As things start to spiral, he links up with the street-gang wannabes for mutual 
 
 He runs up the final set of stairs and bangs on Rick's door. On opening, he barges in, slams it behind him, and frantically checks the mute guitarist for signs of corruption. All good. Now can Rick please explain what the hell is going on?
 
-Rick, looking equally horrified, starts scribbling down notes, until creepy guitar music starts coming in *through the damn window*. Rick starts trying to drown it out with normal music, at which point the MC realises: that's not the old man he's been hearing all this time. He pulls open the curtains, looks down into the courtyard, and [oh](https://giphy.com/gifs/the-lord-of-rings-return-king-10wgT5PDnOwMQE) [crap](https://tenor.com/view/jack-sparrow-kraken-pirates-of-the-caribbean-gif-14820358).
+Rick, looking equally horrified, starts scribbling down notes but, before he can finish, creepy guitar music starts coming in *through the damn window*. Rick starts trying to drown it out with normal music, at which point the MC realises: that's not the old man he's been hearing all this time. He pulls open the curtains, looks down into the courtyard, and [oh](https://giphy.com/gifs/the-lord-of-rings-return-king-10wgT5PDnOwMQE) [crap](https://tenor.com/view/jack-sparrow-kraken-pirates-of-the-caribbean-gif-14820358).
 
 Cue frantic flight into the darkness, dodging tentacles and pod people,  before collapsing in the street.
 
-When he wakes up where he collapsed the following morning, he finds that the back-alley that used to lead to Strawberry Court is gone: bricked up and with years worth of graffiti covering the brickwork. He hammers at it and manages to dislodge a loose brick... seeing that behind it is the overgrown remains of burned ruin. Then the police pick him up and he gets shipped off to an asylum.
+When he wakes up on the ground where he fell the following morning, he finds that the back-alley that used to lead to Strawberry Court is gone: bricked up and with years worth of graffiti covering the brickwork. He hammers at it and manages to dislodge enough bricks to squeeze through... only to find that behind it is the overgrown remains of a burned ruin. A few scorched, water-stained, unreadable bits of paper with Rick's monogram are lying in the wreckage, all that's left of Rick's explanation. Then the police pick him up and he gets shipped off to an asylum.
 
-The story is told through the lens of the MC in the asylum speaking to his psychiatrist who, of course, believes that this was all hallucinated. The psych eventually diagnoses it as a one-off psychotic break with no signs of relapse and signs him out into his parents' custody.
+The story is told through the lens of the MC in the asylum speaking to his psychiatrist who, of course, believes that this was all hallucinated. The psych eventually diagnoses it as a one-off psychotic break with no signs of relapse and signs him out so he can move back in with his parents.
 
 As they walk out, the dad mentions "none of that Strawberry Court nonsense". "Oh", says the receptionist, "that's a blast from the past - my older cousin lived there back before the fire. Must be five years ago now? She was a sweet girl, Mary; shame about the suicide."
 
@@ -51,6 +51,8 @@ And in the mirror behind her the MC sees the shadows start to writhe...
 ----
 
 This is basically a modern take on [The Music of Erich Zann](http://dagonbytes.com/thelibrary/lovecraft/themusicoferichzann.htm). However I actually came up with the original bits first and twisted it into an homage to Zann later.
+- Alternatively: the *other* horror film with [duelling instruments](https://youtu.be/myhnAZFR1po)!
+- Could also view it as a twisted, twisted coming-of-age story
 
 Need to flesh out:
 - The early bits. E.g. sexual overtones, where the MC is watching out of his window to see Mary change... and then, after her apparent suicide, pod!Mary keeps trying to invite him in for some fun. And his relationship with the yoof who carry knives and brag about guarding the block.
@@ -62,10 +64,14 @@ I'm writing this summary after watching [Hereditary](https://m.imdb.com/title/tt
 - Different tones for different elements: cold grey for the asylum, happy (and slightly hazy) greens and yellows for the daytime at SC, blacks and reds for night at the SC
   - Ideally have the asylum feel slightly unreal and Groundhog Day-ish: after each flashback ends, have a shot of him being taken out of his room to see the psych for the next session.
 - Until the climax, never show the courtyard in darkness, only the MC's room and the diorama-like square of the lit windows he's looking at
-- When Rick is playing the guitar, have the film soundtrack music accompanying him... then in the climax have the MC visibly able to hear that music coming through the window.
+- When Rick is playing the guitar, have the film soundtrack music accompanying him... then in the climax have the MC visibly *able to hear that music* as it comes through the window.
 - The deaths should gradually move up the block as the film goes on, mirroring the flight up to Rick's room.
 - Everything after the MC looks out of Rick's window should be a series of confused flashes in the dark. The first of which should be Rick's visibly dead face as music continues to spill from his guitar amp. 
 - Final shot should be a zoom-in on the MC's terrified eye, as the pupil starts to glow with black flame.
+- Stating the freakin' obvious: this would be a film that would live or die by its soundtrack. Use this as motivation for my own guitar practice?
+  - then, if it ever actually got produced, discard my amateur fumbling in favour of something composed by an expert :)
+- Bookshelves in people's rooms full of Lovecraft, Poe, Chambers, Machen, Dante, Milton.
 
 Hereditary maintained the tension between psychosis and supernatural as long as possible, and then failed to either definitively resolve it or lampshade its lack of resolution, which weakened the ending. We're not going to make the same mistake, but we will keep it unclear up to the climax, then weighted in favour of psychosis up to the final supernatural reveal.
-- However, *why* all this happened will be left as an exercise for the ~~reader~~audience. It's some kind of demonic incursion, a la [Event Horizon](https://m.imdb.com/title/tt0119081/); maybe the courtyard is a hellmouth? Rick clearly knows what's really going on, but is somehow defending against it (or keeping out the cold light of sanity, in the psychosis interpretation).
+- However, *why* all this happened will be left as an exercise for the ~~reader~~audience. It's some kind of demonic incursion, a la [Event Horizon](https://m.imdb.com/title/tt0119081/); maybe the courtyard is a hellmouth? Rick clearly knows what's really going on, and is somehow defending against it (or keeping out the cold light of sanity, in the psychosis interpretation), but is unable to say.
+  - I should probably figure out a canon interpretation for the cosmic horror, but mostly so so I can sprinkle in references to get the fans arguing :)
