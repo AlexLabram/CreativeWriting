@@ -20,7 +20,7 @@
   - [similar full-length story](https://www.goodreads.com/book/show/31936622-the-coming-of-noah-s-2nd-ark) (obscure)
   - [similar short story](https://en.m.wikipedia.org/wiki/The_Red_Queen%27s_Race) (Asimov)
 
-### Strawberry Court
+### <a name="Strawberry"></a>Strawberry Court
 
 A young man moves into a block of flats: an old converted victorian house surrounding a central courtyard. Nice place, friendly neighbours: a cute girl, a traditional middle-aged couple, a sweet old granny, a group of yobs-with-hearts-of-gold. Shame about Rick, the creepy mute guy on the top floor, but at least he's a good rock guitar player.
 
@@ -30,7 +30,7 @@ Another night he sees a husband stab his wife then himself. He rushes round agai
 
 Rinse and repeat for old lady having a seizure. And all the while he starts seeing increasing signs of eldritch haunting: dark tentacles in the shadows, dreams of black flames, strange stains, and all to the eerie tune of that *fucking* guitar.
 
-As things start to spiral, he links up with the street-gang wannabes for mutual defence from the apparent invasion of pod people that are now blocking the way out. Until he looks across the courtyard... and sees them being gunned down. So the people he's hooked up with are more pod people. Shit. The only way left is up.
+As things start to spiral, he links up with the street-gang wannabes for mutual defence from the apparent invasion of pod people that are now blocking the way out. Until he looks across the courtyard... and through a window sees a group of street-gang wannabes being gunned down. So the ones he's hooked up with are more pod people, and they're between him and the exit. Shit. The only way left is up.
 
 He runs up the final set of stairs and bangs on Rick's door. On opening, he barges in, slams it behind him, and frantically checks the mute guitarist for signs of corruption. All good. Now can Rick please explain what the hell is going on?
 
@@ -57,7 +57,7 @@ Need to flesh out the early bits. E.g. sexual overtones, where the MC is watchin
 I'm writing this summary after watching [Hereditary](https://m.imdb.com/title/tt7784604/), directed by Ari Aster, so I'm naturally imagining this as a screenplay. A few thoughts on a hypothetical filming:
 - Different tones for different elements: cold grey for the asylum, happy (and slightly hazy) greens and yellows for the daytime at SC, blacks and reds for night at the SC
   - Ideally have the asylum feel slightly unreal and Groundhog Day-ish: after each flashback ends, have a shot of him being taken out of his room to see the psych for the next session.
-- Never show the courtyard in darkness, only the MC's room and the TV-screen-like square of the lit window
+- Never show the courtyard in darkness, only the MC's room and the diorama-like square of the lit windows he's looking at
 - When Rick is playing the guitar, have the film soundtrack music accompanying him... then in the climax have the MC visibly able to hear that music coming through the window.
 - The deaths should gradually move up the block as the film goes on, mirroring the flight up to Rick's room.
 - Everything after the MC looks out of Rick's window should be a series of confused flashes in the dark. The first of which should be Rick's visibly dead face as music continues to spill from his guitar amp. 
