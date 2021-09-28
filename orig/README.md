@@ -22,9 +22,9 @@
 
 ### <a name="Strawberry"></a>Strawberry Court
 
-A young man moves out of home and into a block of flats. Strawberry Court is an old converted victorian house surrounding a central courtyard. Nice place, friendly neighbours: a cute girl, a traditional middle-aged couple, a sweet old granny, a group of yobs-with-hearts-of-gold. 
+A young man moves out of home and into a block of flats. Strawberry Court is an old converted victorian house surrounding a central courtyard. Nice place, friendly neighbours: a cute young-professional girl, a traditional middle-aged couple, a sweet old granny, a group of yobs-with-hearts-of-gold. 
 
-Shame about Rick, the creepy mute guy on the top floor, but at least he's good with that electric guitar he keeps playing.
+Shame about Rick, the creepy mute guy on the top floor, but at least he's good with that electric guitar he keeps playing at all hours.
 
 Then one night he looks across the courtyard through a window and sees Mary, the cute one, climbing a ladder and tying a noose round her neck. He rushes round... and she answers the door in confusion. No step, no rope. But a slightly funny look in her eye...
 
@@ -70,8 +70,9 @@ I'm writing this summary after watching [Hereditary](https://m.imdb.com/title/tt
 - Final shot should be a zoom-in on the MC's terrified eye, as the pupil starts to glow with black flame.
 - Stating the freakin' obvious: this would be a film that would live or die by its soundtrack. Use this as motivation for my own guitar practice?
   - then, if it ever actually got produced, discard my amateur fumbling in favour of something composed by an expert :)
-- Bookshelves in people's rooms full of Lovecraft, Poe, Chambers, Machen, Dante, Milton.
+- Bookshelves in people's rooms should be full of Lovecraft, Poe, Chambers, Machen, Dante, Milton.
 
 Hereditary maintained the tension between psychosis and supernatural as long as possible, and then failed to either definitively resolve it or lampshade its lack of resolution, which weakened the ending. We're not going to make the same mistake, but we will keep it unclear up to the climax, then weighted in favour of psychosis up to the final supernatural reveal.
 - However, *why* all this happened will be left as an exercise for the ~~reader~~audience. It's some kind of demonic incursion, a la [Event Horizon](https://m.imdb.com/title/tt0119081/); maybe the courtyard is a hellmouth? Rick clearly knows what's really going on, and is somehow defending against it (or keeping out the cold light of sanity, in the psychosis interpretation), but is unable to say.
   - I should probably figure out a canon interpretation for the cosmic horror, but mostly so so I can sprinkle in references to get the fans arguing :)
+  - Non-demonic interpretation: this is all a representation of how the block of flats declined and ultimately fell. Have a fire warden jacket hanging in Rick's room and include the occasional scene of him picking up fire hazardsfor max ambiguity.
