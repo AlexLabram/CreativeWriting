@@ -12,7 +12,7 @@ Ah, Arthur!  Come in, come in.  Mind the rug.  Can I get you anything to drin
 
 The invitation?  Ah yes, of course.  I suppose it may have seemed a bit cryptic, but I assure you the situation is quite straightforward.  You see, my collection of board games has gained a new member: a fascinating little puzzle I picked up in Japan.  But to get the most from it I needed a partner, and naturally I thought of you.
 
-Yes, it's this one over here.  Note the fascinating carrying case - I have a sneaking suspicion that it's an antique in its own right.  Aren't the carvings intriguing?  And the latch... see, you have to twist just *so*, and then squeeze, and the box unfurls like origami.  Beautiful design.
+Yes, it's this one over here.  Note the delightful carrying case - I have a sneaking suspicion that it's an antique in its own right.  Aren't the carvings intriguing?  And the latch... see, you have to twist just *so*, and then squeeze, and the box unfurls like origami.  Beautiful design.
 
 The game?  I understand it's called "Akamen", spelled with the kanji for "red mask".  Yes, it is a rather evocative name, isn't it?  I did wonder if the creator was a Poe fan, but the game seems to precede his work by quite some margin.
 
