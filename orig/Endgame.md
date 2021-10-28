@@ -12,7 +12,7 @@ Ah, Arthur!  Come in, come in.  Mind the rug.  Can I get you anything to drin
 
 The invitation?  Ah yes, of course.  I suppose it may have seemed a bit cryptic, but I assure you the situation is quite straightforward.  You see, my collection of board games has gained a new member: a fascinating little puzzle I picked up in Japan.  But to get the most from it I needed a partner, and naturally I thought of you.
 
-Yes, it's this one over here.  Note the fascinating carrying case - I have a sneaking suspicion that it's an antique in its own right.  Aren't the carvings intriguing?  And the latch... see, you have to twist just *so*, and then squeeze, and the box unfurls like origami.  Beautiful design.
+Yes, it's this one over here.  Note the delightful carrying case - I have a sneaking suspicion that it's an antique in its own right.  Aren't the carvings intriguing?  And the latch... see, you have to twist just *so*, and then squeeze, and the box unfurls like origami.  Beautiful design.
 
 The game?  I understand it's called "Akamen", spelled with the kanji for "red mask".  Yes, it is a rather evocative name, isn't it?  I did wonder if the creator was a Poe fan, but the game seems to precede his work by quite some margin.
 
@@ -36,7 +36,7 @@ Going back to Go for a moment.  Those improvements I mentioned?  They're even m
 
 It's like the old Indian story about the sage who kept beating a king at chess - do you remember?  He asked to be rewarded with just one rice grain placed on the first square of the board.  Then two grains on the second square.  Then four on the third, eight on the fourth, sixteen grains on the fifth square... and by the time he reached the end of the chessboard the sage owned the kingdom.  Exponential growth run amok.
 
-What this means is that the mindset required to play Go is qualitatively different from chess: you spend less time on brute-force extrapolation of moves and more time getting an intuitive gut feel for how you want the game to progress.  Less intelligence, more wisdom, one might say.  And for the longest time we thought that no computer could be wise enough to play both Go and chess.  Of course we were wrong.  I guess it's always risky to call something impossible.
+What this means, I'm told, is that the mindset required to play Go is *qualitatively* different from chess: you spend less time on brute-force extrapolation of moves and more time getting an intuitive gut feel for how you want the game to progress.  Less intelligence, more wisdom, one might say.  And for the longest time we thought that no computer could be wise enough to play both Go and chess.  Of course we were wrong.  I guess it's always risky to call something impossible.
 
 I do wonder, though: if two games can codify two so different patterns of thought, what other mental motifs could you capture within a set of rules?  Rather than teaching us to be intelligent or wise, could you create a game that taught us to be happy?  Or sad?  Could you create a game that went beyond mortal modes of thought, and inculcated enlightenment into its players?  Or some deeper mystery, like Life or Love or even Death itself?
 
