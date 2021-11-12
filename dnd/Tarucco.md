@@ -1,8 +1,8 @@
 # Character Backstory: Tarucco Lumna
 
-Campaign: September-November 2021 at the Tea House Theatre (Vauxhall, London)
-DM: Ed Davies
-World: Custom (developed by Ed)
++ Campaign: September-November 2021 at the Tea House Theatre (Vauxhall, London)
++ DM: Ed Davies
++ World: Custom (developed by Ed)
 
 ## Key points
 
