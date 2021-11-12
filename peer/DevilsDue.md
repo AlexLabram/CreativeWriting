@@ -8,7 +8,7 @@ A young girl grows up lonely and ends up summoning a devil for company.  The dev
 
 However, once this increased confidence manifests in actually making other friends, the devil shows his true colours and starts trying to kill them.  Eventually the girl catche on and rebels, kicking off a big exorcism scene.
 
-(Not yet sure what the aftermath should look like; see below for discussion.)
+(Not yet sure what the aftermath should look like; see Author's Notes for discussion.)
 
 ## Song structure
 
