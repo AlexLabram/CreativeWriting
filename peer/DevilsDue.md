@@ -48,7 +48,7 @@ Ends with devil appearing in stereotypical burst of smoke.
 
 After the summoning is complete and the devil's contract has been made.
 
-Upbeat song talking about how much better she feels now she has a friend - she's stronger now.  Ends with verse about how, now she's more confident, she's starting to find even more (human) friends.  Discordant sections in each verse (chorus?) when it talks about how helpful and supportive the devil has been... highlighting the ways in which he's really really not.  (C.f. gaslighting.)
+Upbeat song talking about how much better she feels now she has a friend - she's stronger now.  Ends with verse about how, now she's more confident, she's starting to find even more (human) friends.  Discordant sections in each verse (chorus?) when it talks about how helpful and supportive the devil has been... highlighting the ways in which he's really really not.  (C.f. gaslighting; see e.g. [I'll Never Tell](https://www.youtube.com/watch?v=j2rheMw1X4Y).)
 
 Followed by a section introducing her four (?) new friends - three acquaintances and a bestie - whilst the devil looks on furiously in the background.
 
