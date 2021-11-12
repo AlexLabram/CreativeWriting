@@ -8,15 +8,15 @@ A young girl grows up lonely and ends up summoning a devil for company.  The dev
 
 However, once this increased confidence manifests in actually making other friends, the devil shows his true colours and starts trying to kill them.  Eventually the girl catche on and rebels, kicking off a big exorcism scene.
 
-Not yet sure what the aftermath should look like; see below for discussion.
+(Not yet sure what the aftermath should look like; see below for discussion.)
 
 ## Song structure
 
-Once we've established what songs go where, my friend can flesh out the 
+First priority is to establish what songs go where in the overall story arc; details can be fleshed out later.
 
 Approx 6 songs needed.
 
-Song themes:
+Suggested song themes:
 
 1. Loneliness
 1. The summoning
