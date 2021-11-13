@@ -55,13 +55,13 @@ Lightning-struck trees are sacred to the Tunderblitzen elves, and Tarucco will t
 
 ## Current activities
 
-Seeking employment in Picadel after spending all his money on "interesting experiences" of the most unsavoury kind, Tarucco has found himself working on contract for the monks of Picadel, a (secular) order who - amongst other responsibilities - seek to repel demonic incursions.  Despite being the farthest thing from a monk, he has found common cause with them in eliminating extraplanar entities and their "plane-traitor" followers.
+Seeking employment in Ciedel after spending all his money on "interesting experiences" of the most unsavoury kind, Tarucco has found himself working on contract for the monks of Cicadel, a (secular) order who - amongst other responsibilities - seek to repel demonic incursions.  Despite being the farthest thing from a monk, he has found common cause with them in eliminating extraplanar entities and their "plane-traitor" followers.
 
-The monks view him as a bloodthirsty blunt instrument who is likely to cause more harm than good in all but the most gruesome situations.  However, they concede his effectiveness at coming *back* from those situations with a smile on his face and some new spikes for his armour.  A faction within the Picadelian order is actively attempting to get him killed by understating the danger level of his missions, but this is not (yet) an official policy.
+The monks view him as a bloodthirsty blunt instrument who is likely to cause more harm than good in all but the most gruesome situations.  However, they concede his effectiveness at coming *back* from those situations with a smile on his face and some new spikes for his armour.  A faction within the Cicadelian order is actively attempting to get him killed by understating the danger level of his missions, but this is not (yet) an official policy and he frankly is so used to superiors who try to get him killed that he hasn't even noticed.
 
-Somewhere around this point, the Ewoks rescued Gandalf from Never Never Land with the help of a dinosaur.  (Thanks to Harry 2 for providing a suitable [brown M&M test](https://nsonews.com › brown-mms-or-why-no-one-reads-the-manual-2067) for whether anyone actually reads this backstory.)
+Somewhere around this point, the Ewoks rescued Gandalf from Never Never Land with the help of a dinosaur.  (Thanks to Harry 2 for providing a suitable [brown M&M test](https://nsonews.com › brown-mms-or-why-no-one-reads-the-manual-2067) for whether anyone actually reads this backstory!)
 
-His latest mission was to investigate weird phenomena at a manor house just south-west of Cicadel.  This quickly went off the rails in a rather amusing fashion involving undead monsters, pocket dimensions and animate rivers of blood.  In the aftermath, he somehow found himself working with a party of adventurers to defend a village of human civilians from an orcish incursion.  He has so far found it both convenient and lucrative to stay with this group, although he has several solo escape routes marked out for if the situation becomes untenable.
+His latest mission was to investigate weird phenomena at a manor house a long way east of Ciedel (and just south-west of Piedel).  This task quickly went off the rails in a rather amusing fashion involving undead monsters, pocket dimensions and animate rivers of blood.  In the aftermath, he somehow found himself working with a party of adventurers to defend a village of human civilians from an orcish incursion.  He has so far found it both convenient and lucrative to stay with this group, although he has several solo escape routes marked out for if the situation becomes untenable and/or unduly boring.
 
 Following the sudden gory death of an NPC called Mouthy Mary - an elderly woman who had rather impressed Tarucco by standing up to his oversized, heavily-spiked self when he tried to intimidate her - at the hands of an extraplanar shadow monster, he is currently running on cold fury.  He activated his Touch of Nihilism ability for the first time in a rage (see special rules below), and is now looking for an extraplanar entity down whose throat he can shove it.
 
@@ -69,7 +69,9 @@ Following the sudden gory death of an NPC called Mouthy Mary - an elderly woman 
 
 ## Special rules
 
-Tarucco is not a classical anti-paladin as much as he is a null paladin: he loathes both "good" and "evil" extraplanar entities equally, regardless of what pretentious names they call themselves, as well as those tainted by them.  As such, I've agreed with Ed to tweak his (anti)paladin special abilities slightly, as follows:
+(Author's note: these rules are under discussion and subject to change.)
+
+Tarucco is not a classical anti-paladin as much as he is an *a*paladin: he loathes both "good" and "evil" extraplanar entities equally, regardless of what pretentious names they call themselves, as well as those tainted by them.  As such, I've agreed with Ed to tweak his (anti)paladin special abilities slightly, as follows:
 
 - [Detect Good](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Good) / [Detect Evil](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Evil) is replaced by Detect Extraplanar
   - This strongly detects extraplanars such as angels or demons, and weakly detects their followers.
