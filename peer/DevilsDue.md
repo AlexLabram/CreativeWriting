@@ -52,6 +52,24 @@ Upbeat song talking about how much better she feels now she has a friend - she's
 
 Followed by a section introducing her four (?) new friends - three acquaintances and a bestie - whilst the devil looks on furiously in the background.
 
+#### Lyrics idea 1
+
+Format V V C V V C V
+
+Verses 1-4:
+> something something something
+> He's {always there / been my friend / got my back / helped me _live_, and that's enough for me
+> ...kinda
+
+Last verse (5)
+> something something something
+> He's kept his deal  and that's enough for me
+> ...isn't it?
+
+Covers a time-skip - show protag gradually growing up. Pigtails come out, tea parties with stuffed bears give way to reading books together and then to walks in the park.
+
+Before every "kinda" have the protag moving away from the devil only for him to pull her back.
+
 ### Devil scheming
 
 Classic villainous monologue.  (C.f. [Be Prepared](https://www.youtube.com/watch?v=zPUe7O3ODHQ), [A Story Told](https://www.youtube.com/watch?v=6_0eoWZO1OQ), etc etc.)
