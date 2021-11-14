@@ -43,7 +43,7 @@ In his anger at the Commandant's betrayal, he succeeded in killing a dozen Jäge
 ## Beliefs
 
 Having been disabused of his faith in the benevolence of the Tunderblitzen religion - at least as it applies to himself - Tarucco now views the society that 
-tormented him for so long not as a perversion of the ods' divine vision but as a fish that has rotted from the head.  He has extended his prior loathing of demon-summoners and cultists to cover all worshippers and churchgoers, viewing them as traitors to their plane and puppets dancing to the gods' evil designs.
+tormented him for so long not as a perversion of the Gods' divine vision but as a fish that has rotted from the head.  He has extended his prior loathing of demon-summoners and cultists to cover all worshippers and churchgoers, viewing them as traitors to their plane and puppets dancing to the gods' evil designs.
 
 He secretly hates his younger self for the years wasted in study and self-denial, and has sworn to experience the full range of earthly pleasures that he had previously renounced.  In contrast to his scholarly upbringing, he struggles to focus on long-term plans and goals as his mind inevitably drifts to past failures.  Only blood truly quenches his rage and permits him to think clearly.
 
