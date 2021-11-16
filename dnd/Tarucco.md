@@ -33,11 +33,8 @@
   - [Factions](#factions)
   - [General history](#general-history)
   - [The Tunderblitz](#the-tunderblitz)
-    - [Religion](#religion)
-    - [Military](#military)
   - [Sulbearn elves](#sulbearn-elves)
   - [Cross-factional religion](#cross-factional-religion)
-    - [Random prophecy](#random-prophecy)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -196,7 +193,7 @@ The distance from Dinium to Piedel is comparable to the distance between El Paso
 
 ### Map
 
-[img]Ed's world map (rough).jpg[/img]
+![Map of The Realm](Ed's world map &#40;rough&#41;.jpg)
 
 ## Tech level
 
