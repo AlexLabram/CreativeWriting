@@ -193,7 +193,12 @@ The distance from Dinium to Piedel is comparable to the distance between El Paso
 
 ### Map
 
-![Map of The Realm](Ed's%20world%20map%20&#40;rough&#41;.jpg)
+<details>
+  <summary>Map of The Realm - click to view</summary>
+  
+  ![Map of The Realm](Ed's%20world%20map%20&#40;rough&#41;.jpg)
+
+</details>
 
 ## Tech level
 
