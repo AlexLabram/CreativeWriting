@@ -3,10 +3,11 @@
 ## Why this document
 As a Japanese learner, I’ve found it very hard to translate specialist bonsai texts: the English texts don’t give the kanji, and the Japanese texts don’t always have furigana.  This document is a cheat sheet drawn from a range of sources.  Corrections to [alex@m2cc.co.uk](mailto:alex@m2cc.co.uk).
 
-##To do
+## To do
 + Finish first pass based on [Mă-kè Bonsai](https://www.makebonsai.com/) docs
 + Double-check [sizes](https://en.wikipedia.org/wiki/Bonsai#Size_classifications) (esp. keshitsubo)
-+ Add discreet links to best sources of info and/or Mark’s youtube videos
++ Add discreet links to best sources of info and/or [Mark’s youtube videos](https://youtube.com/c/MaKeBonsai)
+  - Note: this will require me to actually *watch* said YT videos!  Need to 
 + Harvest other sources for vocabulary:
   - [Wikipedia](https://en.wikipedia.org/wiki/Bonsai)
   - [Shikoku News' bonsai glossary](https://bonsai.shikoku-np.co.jp/en/word/)
@@ -14,7 +15,7 @@ As a Japanese learner, I’ve found it very hard to translate specialist bonsai 
   - [Japanese Wikipedia](https://ja.wikipedia.org/wiki/Category:%E7%9B%86%E6%A0%BD)
   - [Scottish Bonsai Association glossary](http://www.scottishbonsai.org/page.cfm?kicker=Bonsai_Terms&page=23)
 + Reformat to look more like a cheat sheet
-+ Convert to Markdown for bloggifying (DONE! :D )
++ Refactor to use Shikoku News' keywords?
 
 ## General
 + Bonsai (tray planting): 盆栽
@@ -22,6 +23,8 @@ As a Japanese learner, I’ve found it very hard to translate specialist bonsai 
 + Jukei (tree style/form):  樹形
 + Ōkisa (size): 大きさ - not a bonsai-specific term!
 + Toko-no-ma (display alcove): 床の間
++ Tanzaku-gake (hanging scroll for haiku/painting): 短冊形
++ ...What's the word for a bonsai practitioner/student?
 
 ## Styles
 + Chokkan (formal upright): 直幹
@@ -44,7 +47,7 @@ As a Japanese learner, I’ve found it very hard to translate specialist bonsai 
 ## Sizes
 + Daiza (large): 大品 (daihin???)
   - Imperial (≤200cm): 皇居
-  - Bonju (100-200cm):
+  - Bonju (100-200cm): ??? can't find this
   - Ōmono (80-120cm): 大物 (???)
 + Kifū (medium): 貴風
   - Chūhin (40-60cm): 中品
@@ -62,4 +65,4 @@ As a Japanese learner, I’ve found it very hard to translate specialist bonsai 
 
 ## Miscellaneous
 + Nebari (root flare): 根張り
-
++ Yamadori ("wild bonsai"): 山採り
