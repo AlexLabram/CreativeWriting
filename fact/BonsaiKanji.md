@@ -3,22 +3,16 @@
 ## Why this document
 As a Japanese learner, I’ve found it very hard to translate specialist bonsai texts: the English texts don’t give the kanji, and the Japanese texts don’t always have furigana.  This document is a cheat sheet drawn from a range of sources.  Corrections to [alex@m2cc.co.uk](mailto:alex@m2cc.co.uk).
 
-<<<<<<< HEAD
 ## Conventions
-+ © indicates a non-specialist Japanese term that has been included here for completeness
++ © indicates a non-specialist Japanese term that has been included here for completeness.
++ ??? indicates that I can't find the kanji for this romaji term!  Please let me know if you're aware of it.
 
 ##To do
 + Finish first pass based on [Mă-kè Bonsai](https://www.makebonsai.com/) docs
 + Double-check [sizes](https://en.wikipedia.org/wiki/Bonsai#Size_classifications) (esp. keshitsubo)
   - Mark's list seems to be taken from [here](https://www.beechfieldbonsai.co.uk/understanding-bonsai-size-classification/), or vice-versa; no ultimate source available
-+ Add discreet links to best sources of info and/or Mark’s youtube videos
-=======
-## To do
-+ Finish first pass based on [Mă-kè Bonsai](https://www.makebonsai.com/) docs
-+ Double-check [sizes](https://en.wikipedia.org/wiki/Bonsai#Size_classifications) (esp. keshitsubo)
 + Add discreet links to best sources of info and/or [Mark’s youtube videos](https://youtube.com/c/MaKeBonsai)
   - Note: this will require me to actually *watch* said YT videos!  Need to 
->>>>>>> 3c78cf30c78298fa86e63e5247b369c1e8de361b
 + Harvest other sources for vocabulary:
   - [Wikipedia](https://en.wikipedia.org/wiki/Bonsai)
   - [Shikoku News' bonsai glossary](https://bonsai.shikoku-np.co.jp/en/word/)
@@ -26,12 +20,9 @@ As a Japanese learner, I’ve found it very hard to translate specialist bonsai 
   - [Japanese Wikipedia](https://ja.wikipedia.org/wiki/Category:%E7%9B%86%E6%A0%BD)
   - [Scottish Bonsai Association glossary](http://www.scottishbonsai.org/page.cfm?kicker=Bonsai_Terms&page=23)
 + Reformat to look more like a cheat sheet
-<<<<<<< HEAD
 + Move most General terminology into the corresponding title bar
 + Test-drive against actual bonsai articles
-=======
 + Refactor to use Shikoku News' keywords?
->>>>>>> 3c78cf30c78298fa86e63e5247b369c1e8de361b
 
 ## General
 + Bonsai ("tray planting"): 盆栽
@@ -70,11 +61,8 @@ As a Japanese learner, I’ve found it very hard to translate specialist bonsai 
 Different groups use different classifications, so there's a lot of overlap
 + Daiza (large): 大品 (daihin???)
   - Imperial (≤200cm): 皇居
-<<<<<<< HEAD
-  - Bonju (100-200cm): 
-=======
-  - Bonju (100-200cm): ??? can't find this
->>>>>>> 3c78cf30c78298fa86e63e5247b369c1e8de361b
+  - Bonju (100-200cm): ???
+    can't find any Japanese reference to this!
   - Ōmono (80-120cm): 大物 (???)
 + Kifū (medium): 貴風
   - Chūhin (40-60cm): 中品
@@ -92,7 +80,7 @@ Different groups use different classifications, so there's a lot of overlap
 
 ## Miscellaneous
 + Nebari (root flare): 根張り
-<<<<<<< HEAD
++ Yamadori ("wild bonsai"): 山採り
 
 Complete list from Shikoku News glossary - japanese version, excl. tree species (樹種), with keyword(s):
 + うえかえ（植え替え）／ＨＤ動画あり 動画あり 手入れ
@@ -265,7 +253,3 @@ Complete list from Shikoku News glossary - japanese version, excl. tree species 
 + 
 + 
 + 
-
-=======
-+ Yamadori ("wild bonsai"): 山採り
->>>>>>> 3c78cf30c78298fa86e63e5247b369c1e8de361b
