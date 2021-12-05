@@ -9,6 +9,9 @@ As a Japanese learner, I’ve found it very hard to translate specialist bonsai 
 + Items are currently ordered first by popularity (as measured by how much digging I had to do to find them!) and, where I've batch-imported from Japanese glossaries, by hiragana.
 
 ## To do
+
+<details>
+
 + Double-check [sizes](https://en.wikipedia.org/wiki/Bonsai#Size_classifications) (esp. keshitsubo)
   - Mark's list seems to be taken from [here](https://www.beechfieldbonsai.co.uk/understanding-bonsai-size-classification/), or vice-versa; no ultimate source available
 + Add discreet links to best sources of info and/or [Mark’s youtube videos](https://youtube.com/c/MaKeBonsai)
@@ -25,6 +28,15 @@ As a Japanese learner, I’ve found it very hard to translate specialist bonsai 
 + Test-drive against actual bonsai articles
 + Keep an eye out for the following words / kanji:
   - bonsai practitioner/student
++ Pull out common kanji (as opposed to compounds) list
+  - ...and link to jisho.org detailed definitions?
++ Add non-bonsai words that often feature in the bonsai literary style
+  - e.g. 葉 counter for flat things (such as pine  tiers)
+  - e.g. 銘 inscription
+  - limiting factor here: knowing what I'd be able to expect from "normal" formal prose.
+    - Oh no, I'll need to read other Japanese stuff to check. How horrible.
+
+</details>
 
 ## Associated arts
 Japanese
@@ -164,7 +176,12 @@ Presentation
 + Mishō (xxxx): 実生
 + Yamadori (wild "bonsai"): 山採り
 
-Residual list from Shikoku News glossary
+## Uncategorised
+<details>
+<summary>Shikoku News glossary</summary>
+
+I haven't included their list of tree names here; that may have been a mistake!
+
 + うえかえ（植え替え）／ＨＤ動画あり 動画あり 手入れ
 + おいこみ: 追い込み - 手入れ
 + えだぼね: 枝骨 - 鑑賞
@@ -276,3 +293,6 @@ Keywords (not yet used in titles):
 + Kenshō (phenomenon©): 現象
 + Teire (care©): 手入れ
 + Kanshō (appreciation): 観賞 / 鑑賞
+
+</details>
+
