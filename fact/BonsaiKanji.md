@@ -48,6 +48,7 @@ Japanese
 + Bonkei ("tray landscape" using artificial materials): 盆景
 + Bonseki ("tray rocks" using dry natural materials): 盆石
 + Ikebana (flower arranging): 生け花
++ Niwaki (topiary): 庭木
 
 Non-Japanese
 + Pénjǐng ("tray scenery" - chinese): 盆景
