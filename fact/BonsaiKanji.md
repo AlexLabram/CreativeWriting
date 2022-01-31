@@ -73,6 +73,7 @@ Non-Japanese
 + Netsuranari (sinuous-root): 根連り
 + Ikadabuki (raft): 筏吹き
 + Kawarigi (eccentric / style-free): 変わり木
++ Karamemiki (entwined trunks): 絡め幹 (???)
 
 From Shikoku News, possibly miscategorised:
 + Kata-eda (concentration of branches on one side of tree): 片枝
