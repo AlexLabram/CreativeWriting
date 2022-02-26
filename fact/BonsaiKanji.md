@@ -1,7 +1,5 @@
-# Bonsai ("tray planting"): 盆栽 \
-  Specialist kanji reference
-
-## Why this document
+# Bonsai kanji reference
+## Bonsai ("tray planting"): 盆栽
 As a Japanese learner, I’ve found it very hard to translate specialist bonsai texts: the English texts don’t give the kanji, and the Japanese texts don’t always have furigana.  This document is a cheat sheet drawn from a range of sources.  Corrections to [alex@m2cc.co.uk](mailto:alex@m2cc.co.uk).
 
 ## Conventions
@@ -11,23 +9,34 @@ As a Japanese learner, I’ve found it very hard to translate specialist bonsai 
 + Items are currently ordered first by popularity (as measured by how much digging I had to do to find them!) and, where I've batch-imported from Japanese glossaries, by hiragana.
 
 ## To do
-+ Finish first pass based on [Mă-kè Bonsai](https://www.makebonsai.com/) docs
+
+<details>
+
 + Double-check [sizes](https://en.wikipedia.org/wiki/Bonsai#Size_classifications) (esp. keshitsubo)
   - Mark's list seems to be taken from [here](https://www.beechfieldbonsai.co.uk/understanding-bonsai-size-classification/), or vice-versa; no ultimate source available
 + Add discreet links to best sources of info and/or [Mark’s youtube videos](https://youtube.com/c/MaKeBonsai)
-  - Note: this will require me to actually *watch* said YT videos!  Need to 
+  - Note: this will require me to actually *watch* said YT videos!  Need to continue working through them.
 + Harvest other sources for vocabulary:
   - [Wikipedia](https://en.wikipedia.org/wiki/Bonsai)
   - [Shikoku News' bonsai glossary](https://bonsai.shikoku-np.co.jp/en/word/)
-    - Note: I need to comb through the glossary text for more words - for example the "jiita" definition mentions "hyotan" and "hirataku"
+    - I'm 2/3 done with a first-pass
+    - However I need to comb through the glossary text for more words - for example the "jiita" definition mentions "hyotan" and "hirataku"
   - [Japan Bonsai bilingual site](https://www.japan-bonsai.jp/en/)
   - [Japanese Wikipedia](https://ja.wikipedia.org/wiki/Category:%E7%9B%86%E6%A0%BD)
   - [Scottish Bonsai Association glossary](http://www.scottishbonsai.org/page.cfm?kicker=Bonsai_Terms&page=23)
 + Reformat to look more like a cheat sheet
-+ Move most General terminology into the corresponding title bar
 + Test-drive against actual bonsai articles
-+ Refactor to use Shikoku News' keywords? DONE
-+ ...What's the word for a bonsai practitioner/student?
++ Keep an eye out for the following words / kanji:
+  - bonsai practitioner/student
++ Pull out common kanji (as opposed to compounds) list
+  - ...and link to jisho.org detailed definitions?
++ Add non-bonsai words that often feature in the bonsai literary style
+  - e.g. 葉 counter for flat things (such as pine  tiers)
+  - e.g. 銘 inscription
+  - limiting factor here: knowing what I'd be able to expect from "normal" formal prose.
+    - Oh no, I'll need to read other Japanese stuff to check. How horrible.
+
+</details>
 
 ## Associated arts
 Japanese
@@ -39,6 +48,7 @@ Japanese
 + Bonkei ("tray landscape" using artificial materials): 盆景
 + Bonseki ("tray rocks" using dry natural materials): 盆石
 + Ikebana (flower arranging): 生け花
++ Niwaki (topiary): 庭木
 
 Non-Japanese
 + Pénjǐng ("tray scenery" - chinese): 盆景
@@ -63,7 +73,9 @@ Non-Japanese
 + Netsuranari (sinuous-root): 根連り
 + Ikadabuki (raft): 筏吹き
 + Kawarigi (eccentric / style-free): 変わり木
++ Karamemiki (entwined trunks): 絡め幹 (???)
 
+From Shikoku News, possibly miscategorised:
 + Kata-eda (concentration of branches on one side of tree): 片枝
   - I think this should be under phenomena, appreciation, or possibly parts.
   - Unless kataedaki is used as a substyle of fukinagashi?
@@ -90,26 +102,33 @@ Different groups use different classifications, so there's a lot of overlap
   - Keshitsubo (≤2.5cm):
 
 ## Dougu (tool©): 道具
-
+Soils
 + Akadama-tsuchi ("red ball soil"): 赤玉土
 + Ue-tsuchi (xxxx): 植え土
 + Uwa-tsuchi (xxxx): 上土
 + Kanuma-tsuchi (xxxx): 鹿沼土
-+ Kanreisha (xxxx): 寒冷紗
-+ Koban-bachi / daen-bachi (oval or elliptical pot): 小判鉢 / 楕円鉢
 + Goro-tsuchi (xxxx): ゴロ土
-+ Jīta (display board): 地板
-+ Seihō-bachi (square pot): 正方鉢
-+ Sekkai iōgōzai (lime sulphur): 石灰硫黄合剤
-+ Taku (xxxx): 卓
+
+Additives
 + Tamahi (organic fertiliser ball): 玉肥
-+ Chōhō-bachi (rectangular pot): 長方鉢
-+ Hon-bachi (xxxx): 本鉢
-+ Hakomazari (xxxx): 箱飾り
-+ Mokkō-bachi (circular pot with flower-shaped edge): 木瓜鉢
-+ Muro (winter chamber): ムロ
++ Sekkai iōgōzai (lime sulphur): 石灰硫黄合剤
 + Yugōzai (wound paste): 癒合剤
 
+Pot types
++ Koban-bachi / daen-bachi (oval or elliptical pot): 小判鉢 / 楕円鉢
++ Seihō-bachi (square pot): 正方鉢
++ Chōhō-bachi (rectangular pot): 長方鉢
++ Hon-bachi (formal pot not suitable for cultivation): 本鉢
++ Mokkō-bachi (circular pot with flower-shaped edge): 木瓜鉢
+
+Equipment
++ Muro (winter chamber): ムロ
++ Kanreisha (shade cloth): 寒冷紗
+
+Presentation
++ Taku (display table): 卓
++ Jīta (display board): 地板
++ Hakokazari (display box / frame): 箱飾り
 
 ## Jushu (tree species): 樹種
 + Not yet covered in this document
@@ -159,7 +178,12 @@ Different groups use different classifications, so there's a lot of overlap
 + Mishō (xxxx): 実生
 + Yamadori (wild "bonsai"): 山採り
 
-Residual list from Shikoku News glossary
+## Uncategorised
+<details>
+<summary>Shikoku News glossary</summary>
+
+I haven't included their list of tree names here; that may have been a mistake!
+
 + うえかえ（植え替え）／ＨＤ動画あり 動画あり 手入れ
 + おいこみ: 追い込み - 手入れ
 + えだぼね: 枝骨 - 鑑賞
@@ -271,3 +295,6 @@ Keywords (not yet used in titles):
 + Kenshō (phenomenon©): 現象
 + Teire (care©): 手入れ
 + Kanshō (appreciation): 観賞 / 鑑賞
+
+</details>
+
