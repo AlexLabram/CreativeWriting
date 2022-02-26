@@ -89,6 +89,7 @@ Translation
 + いいものを慈しみながら育てるのが神高さんのやり方で、同園には長く丹精した銘樹が並んでいる。
 + Ii-mono o itsukushimi nagara sodateru no ga Kandaka-san no yarikata de, dou sono ni wa nagaku tansei shita meiju ga narande iru.
 + {Good thing} o {affection} {while} {to nurture} no ga {Mr Kandaka} no {way of doing things} de, {same place} ni wa {lengthy} {diligence} shita {famous tree} ga {is equalling}
++ ???
 
 Vocabulary
 + 慈しみ (itsukushimi) = love / affection
@@ -102,6 +103,50 @@ Vocabulary
 + 銘樹 (mei-ju) = famous tree?
 + 並ぶ (narabu) = to equal / form a line
 
+## Section 2 Heading
 
+Translation
++ 基本は日常管理
++ Kihon wa nichijou kanri
++ {Basics} wa {everyday} {management}
++ ???
+
+Vocabulary
++ 基本 (kihon) = basics / fundamentals
++ 日常 (nichijou) = everyday / ordinary
++ 管理 (kanri) = control / management
+
+## Section 2 Paragraph 1 Sentence 1
+
+Translation
++ 神高さんが一番気になる樹が同園にある。
++ Kandaka-san ga ichiban ki ni naru ki ga dou sono ni aru
++ {Mr Kandaka} ga {first} {spirit} ni {begins} {tree} ga {same place} ni {exists}
++ ???
+
+Vocabulary
++ 
+
+## Section 2 Paragraph 1 Sentence 2
+
+Translation
++ 1975年4月29日、父の故与一さんが盆栽振興功労で勲六等瑞宝章を受けた祝賀会に飾った黒松だ。
++ 
+
+Vocabulary
+
+## Section 2 Paragraph 1 Sentence 3
+
+Translation
++ 初めて亡父が褒めてくれた樹で、熊本県から手に入れた時は、1人で運んだが、今では2人がかりで動かすのも大変なほどに成長している。
+
+Vocabulary
+
+## Section 2 Paragraph 1 Sentence 4
+
+Translation
++ 根元の見事なシャリから判断すると、山採りしてから150年以上の歳月が経過していると推定されている。
+
+Vocabulary
 
 ## Section X Paragraph X Sentence X
