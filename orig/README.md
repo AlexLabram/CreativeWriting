@@ -11,6 +11,7 @@
 - [Unnamed archaeology fic](MarlowWarlord.md) - an archaeology team uncovers a Saxon warlord. Suddenly: revenants.
   - cough*MarlowWarlord*cough
 - <a name="Strawberry"></a>[Strawberry Court](StrawberryCourt.md) - a young man discovers that his block of flats is demonically possessed
+- [The Verdict](TheVerdict.md) - closed-loop time travel isn't as safe as you think it is
 
 ## Ideas
 
