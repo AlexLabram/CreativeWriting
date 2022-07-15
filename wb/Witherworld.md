@@ -86,6 +86,8 @@ Antagonist types:
 - Cells of an organised goetian faction (S.P.E.C.T.R.E. meets Golden Dawn)
   - Their leader: Morgen le Fay, returned from the witherworld as the seal weakens.  She's been operating like one of those crime lords who end up running their empires from prison, but now she's back.  All shall love her and despair.
   - ...But is she the final boss, or just the cat's-paw of a [fae leader](https://en.wikipedia.org/wiki/Fomorians)?  Dun dun daaaaaah...
+  - ...But are her schemes intended to succeed, or just to set the scenes for a mammoth ritual?  Dun dun daaaaaah...
+- A broken-down magical servant from Roman times has delocalised (castle destroyed?) and promptly started metastatising into a god due to conceptual resonance.  This is not a good thing.
 
 ## Outstanding questions
 
@@ -114,6 +116,13 @@ Antagonist types:
   - Dramatis personae and connection to Geoffrey of Monmouth's Arthurian romance.  ("Morgana le Fay" in particular is a very obvious link!  Need to figure out what "le Fay" would have been in Brythonic.)
   - What was the immediate fall-out?  Impact on demographics / politics / economy, in Britain / witherworld / abroad.
   - How did magical traditions survive until the present day?  (Good excuse to work in lots of mediæval occult lore and dramatis personae!)
+- How does Witherworld magic work?
+  - Good excuse to introduce my spells-as-proteins metaphor, possibly mixed with my spells-as-tsukumogami metaphor.  Put together - spells are "knotwork spirits": sequential expressions of will by the caster whose behaviour depends on how that expression naturally folds itself up on release.  Some are transient (fireballs have only the intelligence and stamina required to throw themselves across a landscape and blow up); some are persistent (
+  - Some spirits have resonance with a particular concept (or prior set of cast spells) - for example, fireballs resonate with elemental Fire, and the greatest spells of battle can resonate with e.g. the Mórrígan.
+    - Magically-literate invaders can effectively redraw the resonance pattern through spreading the worship of their own gods.
+  - Spirits intended to stay small, such as magical servants, are often bound to a place simply because tying the location into the spell reduces their conceptual resonance and stops them maturing into full-fledged gods.  The Roman Lares and Penates, or more recently brownies, are examples of this.
+  - There are also rituals, which are basically a way of hardwiring a lot of the initial conditions that affect the fold/knot pattern.  Per the old factoid about amphibians having a lot more DNA than humans because their eggs need to handle lots of different temperatures etc, this speeds up the rate at which you can 
+- How do Witherworld (theurgic) practitioners learn their magic?  In what order are spells taught?  Are there specific prerequisite exercises ("stare at this knot until it starts to make sense")?  At what point are practitioners capable in combat and/or with rituals?
 
 ## Influences
 
@@ -133,6 +142,7 @@ Antagonist types:
   - "A person is smart. People are dumb, panicky dangerous animals and you know it." - best line ever
 - The breaches are reminiscent of [Primeval](https://m.imdb.com/title/tt0808096/), a TV show about Suddenly Dinosaurs.
 - I need to be careful *not* to take too much influence from Artemis Fowl.  'Tis a silly series.
+- The sense that all the crazy has been trapped behind thin walls is reminiscent of the [Nasuverse](https://typemoon.fandom.com/wiki/Nasuverse)'s [Reverse Side of the World](https://typemoon.fandom.com/wiki/Reverse_Side_of_the_World) where the Age of Man never kicked off and the Age of Gods still holds sway.
 
 ## Reference material
 
@@ -146,4 +156,6 @@ Antagonist types:
   - [Wikipedia bibliography](https://en.wikipedia.org/wiki/Bibliography_of_King_Arthur)
   - Geoffrey of Monmouth's [Historia Regum Britanniae](https://en.wikisource.org/wiki/Six_Old_English_Chronicles/Geoffrey%27s_British_History) - basically fictional, but the first work to merge the various anecdotes of Arthur-the-folk-hero into a coherent legend
   - Thomas Malory's [Le Morte d'Arthur](https://standardebooks.org/ebooks/thomas-malory/le-morte-darthur), which did the same for the medieval revival of Arthurian legend.  (This tended to focus on courtly politics and chivalry rather than battles between nations.)
-- Celtic myths (not yet populated)
+- Celtic religion and myths (not yet populated)
+- Brythonic religion and myths
+  - Pagan-reconstructionist site [here](http://www.dunbrython.org/)
