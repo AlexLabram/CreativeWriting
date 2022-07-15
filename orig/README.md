@@ -23,6 +23,14 @@
   - the Flood becomes the Great Deletion of the time travel itself, filtered through Bronze Age tribal histories
   - [similar full-length story](https://www.goodreads.com/book/show/31936622-the-coming-of-noah-s-2nd-ark) (obscure)
   - [similar short story](https://en.m.wikipedia.org/wiki/The_Red_Queen%27s_Race) (Asimov)
+- The Floating World.  British political dystopia whereby London effectively secedes from the UK due to the increasing social illiberalism of the rest of England - different currency, laws, immigration policy, etc.
+  - Story is told from the viewpoint of a non-Londoner trying to "test in" to the City.  Outer Britain technology is near-future; Floating World tech is cutting-edge.
+  - The initial split comes when some new legislation is passed to further restrict/punish UK immigration.  A group of London politicians manage to slip some wording in that means it could also be applied to different counties within the UK... and the Mayor, who is part of the group, then instructs the Met to enforce *only* the intranational restriction.
+  - Over time the divide gets more intense until there is a barbed-wire wall around the M25.  (Socially liberal doesn't necessarily mean nice or sensible!)  Entry is strictly controlled: unless you're on a tourist visa or have refugee status, you have to pass a bunch of tests and interviews to join one of the London Guilds, which grants you the Freedom of the City.
+    - This lets me mix futuristic elements with classic Livery guff.
+  - Outside the City is basically sliding backwards into soft fascism.  More non-modal behaviours gradually become taboo every year, with the common refrain being "if you don't like it, why don't you go off to the City"?  But don't worry, it's not all bad: Coronation Street is still running.
+  - The City, on the other hand, is becoming gradually more exclusive as population density rises and immigration of skilled labour goes through the roof.  The guarantee is that, if you do your best at _something_ that has social value, you'll be OK.  Conversely, if you want to ride on your ancestors' coat-tails and sit in front of the telly all day, you may be gently nudged into going over the Wall.  (Unless you're willing to seek treatment: the mental healthcare is _exceptional_.)
+  - The overall effect is to take the pastoral UK ideal and reframe it as basically a third-world environment, where everyone is happy because their prejudices are never challenged and no-one bothers to lock their doors because they don't exactly have much to steal.  It also plays with concepts of meritocracy/technocracy and brain-drain, and gives me a chance to break out my knowledge of macroeconomics (impact of floating currency - London uses shilling/farthing), politics, etc.
 
 ## General brainstorming thoughts
 
