@@ -12,6 +12,7 @@
   - cough*MarlowWarlord*cough
 - <a name="Strawberry"></a>[Strawberry Court](StrawberryCourt.md) - a young man discovers that his block of flats is demonically possessed
 - [The Verdict](TheVerdict.md) - closed-loop time travel isn't as safe as you think it is
+- [Gulls](Gulls.md) - cheesy pseudo-victorian horror story riffing off the eeriness of seagulls; a Tale of the Carthage Club
 
 ## Ideas
 
