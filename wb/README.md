@@ -4,7 +4,7 @@
 
 This is a scribble file for world-building ideas under development.
 
-Worlds that are sufficiently developed will be split out into the /wb subfolder.  Worlds that I don't think I can progress further will be moved to /wb/WB_Dead.md.
+Worlds that are sufficiently developed will be split out into the [/wb](wb) subfolder.  Worlds that I don't think I can progress further will be moved to [/wb/WB_Dead.md](wb/WB_Dead).  Plots based on these worlds will eventually be moved to /orig.
 
 ## General thoughts on world-building
 
@@ -14,10 +14,11 @@ This is not a bad thing!  Per EV Wright's "Gadsby", the constraints make the sto
 
 # Sufficiently developed ~~technology~~ worlds
 
-[Witherworld](/wb/Witherworld.md) - Arthurian legend meets Code Nightmare Green
-[Mereverse](/wb/Mereverse.md) - Mythical critters hide in scattered pocket realms from the threat of Mundanity
-[Clockspace](/wb/Clockspace.md) - space opera around the Clockwork Empire and its genuinely benevolent AI overlord
++ [Witherworld](/wb/Witherworld.md) - Arthurian legend meets Code Nightmare Green
++ [Mereverse](/wb/Mereverse.md) - Mythical critters hide in scattered pocket realms from the threat of Mundanity
 
 # Insufficiently developed worlds
 
++ [Clockspace](/wb/Clockspace.md) - space opera around the Clockwork Empire and its genuinely benevolent AI overlord
++ [The Floating World](/wb/FloatingWorld.md) - political dystopia where London secedes from the UK
 
