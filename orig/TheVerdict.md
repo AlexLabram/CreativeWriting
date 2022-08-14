@@ -50,6 +50,19 @@ As the ticking stutters to a halt, as the flame flashes bright and fades away, a
 
 ------------------
 
-I know her - by reputation only, of course.  Jai Kuna is her name, and her deeds are legendary.  At thirty years of age she is already an Empress by right of conquest.  In the 45th century, she marries into the royalty of a minor kingdom and, discarding her poor inbred husband, she proceeds to wreak a bloody trail across... but I sound like a history lesson.  It would only be appropriate to focus on the present.
+I know her; by reputation only, of course.  Jai Kuna is her name, and her deeds are legendary.  At thirty years of age she is already an Empress by right of conquest.  In the 45th century, she marries into the royalty of a minor kingdom and, discarding her poor inbred husband, she proceeds to wreak a bloody trail across... but I sound like a history lesson.  It would only be appropriate to focus on the present.
 
 The Jai's armour is simple, her sword short and straight - though ceremonial, still its design is functional.  Her clothes are soft tanned leather tattooed with complex patterns.  In her hair is braided the Everjewel, the symbol of her rule glowing a soft gold in the dim light.
+
+A hint of disdain crosses her face as she greets the waiting officials.  They no doubt remind her of the court eunuchs she so infamously purged early in her reign, their ample waistlines and soft hands speaking of bureaucrats who have never held a sword.  Her own empire would never countenance such a thing: her subordinates were, notoriously, required to undergo military training before settling down to a life of paperwork, and were expected to maintain battle readiness at all times if they sought promotion.  All power flows from the barrel of a gun - or the period's equivalent - and the Jai clearly has no use for those who look down on the rough men standing as guarantors of their authority.
+
+
+
+
+
+Finally, the defendant is frog-marched in, sandwiched between two burly guards.  A small man, quiet, lightly balding despite his apparent youth.  The expression on his face one of utter defeat as he gazes at the Time Chamber.
+
+------------------
+
+The officials lining the chamber gaze down on him implacably, not a twitch of emotion showing on their stony faces.  I know their phlegmatic affect is a lie.  How it must gall them, that the offender came from their own period, their self-proclaimed nomocracy: a perfect rulership of clockwork laws.  How they must hate that the multi-chronal nature of the offence forces them to bring in othertimers like ourselves to sit in judgement.
+
