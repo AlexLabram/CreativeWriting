@@ -23,6 +23,7 @@
   - [similar short story](https://en.m.wikipedia.org/wiki/The_Red_Queen%27s_Race) (Asimov)
 + Random cosmic horror
   - "String-theoretic reality cancer" carried by light between stars with similar emission frequencies.  Discovered by theorist, who assumes it's ridiculous until the stars... start... going... out.
++ In a world where magic is partially subordinate to thermodynamics, a group of mages spends every day walking up a mountain then teleporting back down, to supply their "betters" with potential energy they can use in their own spells.
 
 ## World-based ideas
 
