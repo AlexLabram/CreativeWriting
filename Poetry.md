@@ -22,32 +22,32 @@ Whilst pondering Yoda's "luminous beings are we" quote, in the context of mental
 
 ## The Ilk of Paradise
 
-In Xanadu old Mr Brown
-A plastic greenhouse did decree
-With running stands of two-by-four
-And thermostat, and sliding door
-And space for a cup of tea
-With stainless tools and bare-armed toil
-He danced his hands through perfumed soil
-And from the pots burst rich and rampant vines
-And twisted trunks cascading gold and green
-And year-round roses, frangrance seized from spines
+In Xanadu old Mr Brown <br />
+A plastic greenhouse did decree <br />
+With running stands of two-by-four <br />
+And thermostat, and sliding door <br />
+And space for a cup of tea <br />
+With stainless tools and bare-armed toil <br />
+He danced his hands through perfumed soil <br />
+And from the pots burst rich and rampant vines <br />
+And twisted trunks cascading gold and green <br />
+And year-round roses, frangrance seized from spines <br />
 A hoarded heart of verdant life unseen
 
 (Room for a second verse?  It's not like anyone remembers the middle verse of Xanadu...)
 
-The fires ran cold, the earth sucked dry
-The lilies wept sweet honey tears
-The choir sang, the organ played
-As Mr Brown to rest was laid
-Concluding the work of years.
-But I remember Xanadu
-Its secret, silent, warming glow
-A Khan's desire, a blessed isle
-In urban archipelago
-Mere plants can die, but dreams live on
-Each echo stokes the godhead in the shrine
-Tho' Mr Brown's greenhouse is gone
+The fires ran cold, the earth sucked dry <br />
+The lilies wept sweet honey tears <br />
+The choir sang, the organ played <br />
+As Mr Brown to rest was laid <br />
+Concluding the work of years. <br />
+But I remember Xanadu <br />
+Its secret, silent, warming glow <br />
+A Khan's desire, a blessed isle <br />
+In urban archipelago <br />
+Mere plants can die, but dreams live on <br />
+Each echo stokes the godhead in the shrine <br />
+Tho' Mr Brown's greenhouse is gone <br />
 His Xanadu, I pray it will be mine.
 
 ## Doggerel
