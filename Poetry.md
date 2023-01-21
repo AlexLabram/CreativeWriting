@@ -8,7 +8,7 @@ While eating breakfast outdoors at a London cafe in late summer / early autumn.
 > As winds flee the birth of dawn <br />
 > A red sun rises
 
-While looking at a stream... I think?
+While looking at a stream (I think?)
 
 > A river of light <br />
 > Hanging reeds trouble water <br />
@@ -20,35 +20,37 @@ Whilst pondering Yoda's "luminous beings are we" quote, in the context of mental
 > Seek not lightly to scorn these <br />
 > Crude but virid leaves
 
-## The Ilk of Paradise
+## Ilk of Paradise
 
-In Xanadu old Mr Brown <br />
-A plastic greenhouse did decree <br />
-With running stands of two-by-four <br />
-And thermostat, and sliding door <br />
-And space for a cup of tea <br />
-With stainless tools and bare-armed toil <br />
-He danced his hands through perfumed soil <br />
-And from the pots burst rich and rampant vines <br />
-And twisted trunks cascading gold and green <br />
-And year-round roses, frangrance seized from spines <br />
-A hoarded heart of verdant life unseen
+Dedicated to Colin, the neighbour of a friend, whose garden was a sight for sore eyes... and whose wife is largely incapable of caring for it after his death :-/
+
+> In Xanadu old Mr Brown <br />
+> A plastic greenhouse did decree <br />
+> With running stands of two-by-four <br />
+> And thermostat, and sliding door <br />
+> And space for a cup of tea. <br />
+> With stainless tools and bare-armed toil <br />
+> He danced his hands through perfumed soil <br />
+> And from the pots burst rich and rampant vines <br />
+> And twisted trunks cascading gold and green <br />
+> And year-round roses, fragrance seized from spines <br />
+> A hoarded heart of verdant life unseen.
+
+> The fires ran cold, the earth sucked dry <br />
+> The lilies wept sweet honey tears <br />
+> The choir sang, the organ played <br />
+> As Mr Brown to rest was laid <br />
+> His twine snipped by stark sharp shears. <br />
+> But I remember Xanadu <br />
+> Its secret, silent, warming glow <br />
+> A Khan's desire, a blessed isle <br />
+> In urban archipelago <br />
+> Mere plants can die, but dreams live on <br />
+> Each echo stokes the godhead in the shrine <br />
+> Tho' Mr Brown's greenhouse is gone <br />
+> His Xanadu, I pray it will be mine.
 
 (Room for a second verse?  It's not like anyone remembers the middle verse of Xanadu...)
-
-The fires ran cold, the earth sucked dry <br />
-The lilies wept sweet honey tears <br />
-The choir sang, the organ played <br />
-As Mr Brown to rest was laid <br />
-Concluding the work of years. <br />
-But I remember Xanadu <br />
-Its secret, silent, warming glow <br />
-A Khan's desire, a blessed isle <br />
-In urban archipelago <br />
-Mere plants can die, but dreams live on <br />
-Each echo stokes the godhead in the shrine <br />
-Tho' Mr Brown's greenhouse is gone <br />
-His Xanadu, I pray it will be mine.
 
 ## Doggerel
 
